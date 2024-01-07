@@ -1,1 +1,1 @@
-{"issue":"zio/zio-http#2479","desc":"$250Flaky ClientHttpsSpec Test","link":"https://github.com/zio/zio-http/issues/2479"}
+{"issue":"zio/zio-http#2489","desc":"$75Type `Scheme` is too restrictive and the parser is wrong","link":"https://github.com/zio/zio-http/issues/2489"}
