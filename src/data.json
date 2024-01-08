@@ -1,1 +1,1 @@
-{"issue":"zio/zio-schema#608","desc":"$100Avro schema for Option[Enum] failing to decode","link":"https://github.com/zio/zio-schema/issues/608"}
+{"issue":"zio/zio-schema#588","desc":"$75Support validation for optional values","link":"https://github.com/zio/zio-schema/issues/588"}
