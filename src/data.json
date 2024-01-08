@@ -1,1 +1,1 @@
-{"issue":"zio/zio#8565","desc":"$100No test found when an exception is raised in the construction of a provided layer","link":"https://github.com/zio/zio/issues/8565"}
+{"issue":"zio/zio#8571","desc":"$100ZIO TEST: Using .nn feature breaks reporting on failing assertions with java.lang.StringIndexOutOfBoundsException","link":"https://github.com/zio/zio/issues/8571"}
