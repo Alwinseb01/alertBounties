@@ -1,1 +1,1 @@
-{"issue":"zio/zio#8611","desc":"$2,500Improve performance of fork/join by one order of magnitude as measured by ForkJoinBenchmark","link":"https://github.com/zio/zio/issues/8611"}
+{"issue":"zio/zio#8079","desc":"$200Flaky Test Framework Test","link":"https://github.com/zio/zio/issues/8079"}
