@@ -1,1 +1,1 @@
-{"issue":"vendure-ecommerce/vendure#1464","desc":"$30The `updatedAt` timestamp does not change for translatable entities when their translations are updated","link":"https://github.com/vendure-ecommerce/vendure/issues/1464"}
+{"issue":"zio/zio-http#2592","desc":"$100Encode Authorization requirements in `Endpoint` API","link":"https://github.com/zio/zio-http/issues/2592"}
