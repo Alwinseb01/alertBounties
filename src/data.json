@@ -1,1 +1,1 @@
-{"issue":"zio/zio-http#2592","desc":"$100Encode Authorization requirements in `Endpoint` API","link":"https://github.com/zio/zio-http/issues/2592"}
+{"issue":"zio/zio-http#2632","desc":"$25`Server.serve` to log basic server info when mounted","link":"https://github.com/zio/zio-http/issues/2632"}
