@@ -1,1 +1,1 @@
-{"issue":"qdrant/qdrant#2723","desc":"$200Flaky test `segment_builder_test::test_building_cancellation`","link":"https://github.com/qdrant/qdrant/issues/2723"}
+{"issue":"zio/zio-schema#639","desc":"$50Build with newer java verions","link":"https://github.com/zio/zio-schema/issues/639"}
