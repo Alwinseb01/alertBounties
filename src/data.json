@@ -1,1 +1,1 @@
-{"issue":"zio/zio-schema#646","desc":"$100Extract Scaladoc to annotation for Scala 3","link":"https://github.com/zio/zio-schema/issues/646"}
+{"issue":"zio/zio-schema#647","desc":"$50JSON Codec: Empty objects as values of optional fields leads to parse error","link":"https://github.com/zio/zio-schema/issues/647"}
