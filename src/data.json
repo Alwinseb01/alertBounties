@@ -1,1 +1,1 @@
-{"issue":"zio/zio-schema#647","desc":"$50JSON Codec: Empty objects as values of optional fields leads to parse error","link":"https://github.com/zio/zio-schema/issues/647"}
+{"issue":"zio/zio-schema#447","desc":"$75Encoding Decoding Map to JSON","link":"https://github.com/zio/zio-schema/issues/447"}
