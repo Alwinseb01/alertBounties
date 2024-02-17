@@ -1,1 +1,1 @@
-{"issue":"zio/interop-cats#687","desc":"$500Memory leaks while using fs2-kafka consumer","link":"https://github.com/zio/interop-cats/issues/687"}
+{"issue":"zio/interop-cats#666","desc":"$100Graceful shutdown of http4s-ember-server with ZIO hanging","link":"https://github.com/zio/interop-cats/issues/666"}
