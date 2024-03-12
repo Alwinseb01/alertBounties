@@ -1,1 +1,1 @@
-{"issue":"tailcallhq/tailcall#1397","desc":"$50add support for set-cookie header","link":"https://github.com/tailcallhq/tailcall/issues/1397"}
+{"issue":"tailcallhq/tailcall#1400","desc":"$50move `server.responseHeaders` to `server.headers.custom`","link":"https://github.com/tailcallhq/tailcall/issues/1400"}
