@@ -1,1 +1,1 @@
-{"issue":"zio/zio-http#2851","desc":"$250Handling streaming upload with multipart-form data fails with payloads greater than ~7KB","link":"https://github.com/zio/zio-http/issues/2851"}
+{"issue":"zio/zio-http#2786","desc":"$250OpenAPI spec to endpoint generator does not recognize field validation","link":"https://github.com/zio/zio-http/issues/2786"}
