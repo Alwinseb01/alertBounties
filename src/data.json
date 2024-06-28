@@ -1,1 +1,1 @@
-{"issue":"zio/zio-json#1128","desc":"$200Unable to locate the JsonDecoder for a type constructor containing a nested type.","link":"https://github.com/zio/zio-json/issues/1128"}
+{"issue":"zio/zio-schema#695","desc":"$250Add infos about generic parameters and what fields are of such a generic type to schemas","link":"https://github.com/zio/zio-schema/issues/695"}
