@@ -1,1 +1,1 @@
-{"issue":"zio/zio-schema#695","desc":"$250Add infos about generic parameters and what fields are of such a generic type to schemas","link":"https://github.com/zio/zio-schema/issues/695"}
+{"issue":"zio/zio-schema#700","desc":"$250JsonDecoder should take into account all annotations on `EnumN` and `GenericRecord`","link":"https://github.com/zio/zio-schema/issues/700"}
