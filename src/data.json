@@ -1,1 +1,1 @@
-{"issue":"zio/zio-schema#700","desc":"$250JsonDecoder should take into account all annotations on `EnumN` and `GenericRecord`","link":"https://github.com/zio/zio-schema/issues/700"}
+{"issue":"tuist/tuist#6456","desc":"$300Generate Objective C resources for internal targets","link":"https://github.com/tuist/tuist/issues/6456"}
