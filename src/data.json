@@ -1,1 +1,1 @@
-{"issue":"tailcallhq/tailcall#2325","desc":"$200chore: Expose `JIT` executor via the `request_handler`","link":"https://github.com/tailcallhq/tailcall/issues/2325"}
+{"issue":"zio/zio-json#1128","desc":"$200Unable to locate the JsonDecoder for a type constructor containing a nested type.","link":"https://github.com/zio/zio-json/issues/1128"}
