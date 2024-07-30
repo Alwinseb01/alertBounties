@@ -1,1 +1,1 @@
-{"issue":"zio/zio#9052","desc":"$250ZStream scoped doesn't release the resource","link":"https://github.com/zio/zio/issues/9052"}
+{"issue":"zio/zio#8983","desc":"$2,500Using STM is much slower than using a single Ref even with contention","link":"https://github.com/zio/zio/issues/8983"}
