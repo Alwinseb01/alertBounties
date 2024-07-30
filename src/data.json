@@ -1,1 +1,1 @@
-{"issue":"zio/zio#8983","desc":"$2,500Using STM is much slower than using a single Ref even with contention","link":"https://github.com/zio/zio/issues/8983"}
+{"issue":"zio/zio#9056","desc":"$1,500Enable multithreading for ZIO Native support","link":"https://github.com/zio/zio/issues/9056"}
