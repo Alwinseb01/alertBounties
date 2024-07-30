@@ -1,1 +1,1 @@
-{"issue":"zio/zio-http#2937","desc":"$250Endpoint: add query codec validation for max/min length and regex","link":"https://github.com/zio/zio-http/issues/2937"}
+{"issue":"zio/zio-http#2962","desc":"$250[gen] add support for type aliases (newtype / opaque type) when generating code from spec","link":"https://github.com/zio/zio-http/issues/2962"}
