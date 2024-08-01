@@ -1,1 +1,1 @@
-{"issue":"zio/zio-schema#705","desc":"$250The `@recordName` annotation is unsued","link":"https://github.com/zio/zio-schema/issues/705"}
+{"issue":"zio/zio-schema#709","desc":"$750Ensure non Scala version specific specs being executed for Scala 3 as well","link":"https://github.com/zio/zio-schema/issues/709"}
