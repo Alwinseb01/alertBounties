@@ -1,1 +1,1 @@
-{"issue":"zio/zio#9089","desc":"$250can't get fiberdump of stuck tests on OSX","link":"https://github.com/zio/zio/issues/9089"}
+{"issue":"zio/zio#9082","desc":"$450Consider rewriting recursive ZIO methods to iterate instead","link":"https://github.com/zio/zio/issues/9082"}
