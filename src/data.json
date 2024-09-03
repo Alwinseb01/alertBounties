@@ -1,1 +1,1 @@
-{"issue":"zio/zio-schema#730","desc":"$200Generation of genericTypeInfo does not always work","link":"https://github.com/zio/zio-schema/issues/730"}
+{"issue":"zio/zio#9152","desc":"$250ZPool leaks resources when acquisition is interrupted","link":"https://github.com/zio/zio/issues/9152"}
