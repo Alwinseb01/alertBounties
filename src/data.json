@@ -1,1 +1,1 @@
-{"issue":"zio/zio#9082","desc":"$450Consider rewriting recursive ZIO methods to iterate instead","link":"https://github.com/zio/zio/issues/9082"}
+{"issue":"zio/zio#9091","desc":"$250`ZStream.interruptWhen(promise)` changes behavior of another stream","link":"https://github.com/zio/zio/issues/9091"}
