@@ -1,1 +1,1 @@
-{"issue":"zio/zio#9091","desc":"$250`ZStream.interruptWhen(promise)` changes behavior of another stream","link":"https://github.com/zio/zio/issues/9091"}
+{"issue":"mediar-ai/screenpipe#278","desc":"$300memory leak ($300 bounty)","link":"https://github.com/mediar-ai/screenpipe/issues/278"}
